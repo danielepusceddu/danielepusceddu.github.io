@@ -1,0 +1,36 @@
+[
+  {
+    "title": "DownUnderCTF 2020 - Disconfigured",
+    "directory": "misc/downunder20_disconfigured",
+    "date": "20-09-21",
+    "tags": "misc discord downunderctf mongodb",
+    "categories": "ctf_writeups",
+    "excerpt": "Exploiting a bad privilege configuration in a Discord bot"
+  },
+  {
+    "title": "DownUnderCTF 2020 - Zombie",
+    "directory": "pwn/downunder20_zombie",
+    "date": "20-09-22",
+    "tags": "pwn downunderctf rust heap uaf",
+    "categories": "ctf_writeups",
+    "excerpt": "Exploiting a soundness bug in Rust",
+    "files": ["exploit.py", "main.rs", "zombie"]
+  },
+  {
+    "title": "DownUnderCTF 2020 - Off the Rails 2",
+    "directory": "osint/downunder20_offtherails2",
+    "date": "20-09-21",
+    "tags": "osint downunderctf image",
+    "categories": "ctf_writeups",
+    "excerpt": "Finding the train station from an image"
+  },
+  {
+    "title": "DownUnderCTF 2020 - VECC",
+    "directory": "pwn/downunder20_vecc",
+    "date": "20-09-28",
+    "tags": "pwn downunderctf heap initialization",
+    "categories": "ctf_writeups",
+    "excerpt": "Exploiting uninitialized struct members",
+    "files": ["exploit.py", "vecc", "vecc.i64", "libc.so.6"]
+  }
+]

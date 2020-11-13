@@ -1,5 +1,14 @@
 [
   {
+    "title": "PoseidonCTF 2020 - Cards",
+    "directory": "pwn/poseidon20_cards",
+    "date": "20-08-13",
+    "tags": "pwn heap glibc-2.32 tcache safelinking tcache_perthread_struct",
+    "categories": "ctf_writeups",
+    "excerpt": "Dealing with glibc 2.32's new safety measure, safelinking",
+    "files": ["exploit.py", "cards"]
+  },
+  {
     "title": "DownUnderCTF 2020 - Disconfigured",
     "directory": "misc/downunder20_disconfigured",
     "date": "20-09-21",

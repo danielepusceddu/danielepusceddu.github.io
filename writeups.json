@@ -41,5 +41,14 @@
     "categories": "ctf_writeups",
     "excerpt": "Exploiting uninitialized struct members",
     "files": ["exploit.py", "vecc", "vecc.i64", "libc.so.6"]
+  },
+  {
+    "title": "DiceCTF 2021 - flippidy",
+    "directory": "pwn/dice21_flippidy",
+    "date": "21-02-08",
+    "tags": "pwn dicectf heap doublefree glibc-2.27 tcache",
+    "categories": "ctf_writeups",
+    "excerpt": "Exploiting a tcache double free in glibc 2.27",
+    "files": ["exploit.py",  "flippidy",  "flippidy.i64"]
   }
 ]

@@ -55,6 +55,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "danielepusceddu"
+
+repository: "danielepusceddu/danielepusceddu.github.io"
+
 author:
   name   : "Daniele Pusceddu"
   avatar : "/assets/avatar.jpg"
@@ -105,6 +112,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 
 category_archive:
   type: liquid

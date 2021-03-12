@@ -50,5 +50,14 @@
     "categories": "ctf_writeups",
     "excerpt": "Exploiting a tcache double free in glibc 2.27",
     "files": ["exploit.py",  "flippidy",  "flippidy.i64"]
+  },
+  {
+    "title": "DiceCTF 2021 - babyrop (ret2csu, ret2dl)",
+    "directory": "pwn/dice21_babyrop",
+    "date": "21-03-12",
+    "tags": "pwn dicectf heap rop ret2dl ret2csu",
+    "categories": "ctf_writeups",
+    "excerpt": "Learning about two advanced ROP techniques",
+    "files": ["exploit.py",  "babyrop",  "babyrop.i64", "patched", "libc.so.6", "ld-2.31.so"]
   }
 ]

@@ -59,5 +59,14 @@
     "categories": "ctf_writeups",
     "excerpt": "Learning about two advanced ROP techniques",
     "files": ["exploit.py",  "babyrop",  "babyrop.i64", "patched", "libc.so.6", "ld-2.31.so"]
+  },
+  {
+    "title": "Volga Qualifiers 21 - penny wise",
+    "directory": "pwn/volgaqualifiers21_pennywise",
+    "date": "21-03-28",
+    "tags": "pwn volgactf heap tcache unsortedbin easy",
+    "categories": "ctf_writeups",
+    "excerpt": "Exploiting an 'off by one' in a small string optimization struct",
+    "files": ["exploit.py",  "bin",  "bin.i64", "backup", "libc.so.6", "ld-2.27.so"]
   }
 ]

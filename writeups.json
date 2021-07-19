@@ -68,5 +68,14 @@
     "categories": "ctf_writeups",
     "excerpt": "Exploiting an 'off by one' in a small string optimization struct",
     "files": ["exploit.py",  "bin",  "bin.i64", "backup", "libc.so.6", "ld-2.27.so"]
+  },
+  {
+    "title": "GoogleCTF 21 - Compression",
+    "directory": "pwn/google21_compress",
+    "date": "21-07-19",
+    "tags": "pwn google googlectf bufferoverflow stack bof compression",
+    "categories": "ctf_writeups",
+    "excerpt": "A fun multi-stage buffer overflow exploit in a compression algorithm",
+    "files": ["exploit.py",  "compress",  "compress.i64", "decompiled.c", "defs.h"]
   }
 ]

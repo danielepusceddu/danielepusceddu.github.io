@@ -17,9 +17,6 @@ title: Daniele Pusceddu
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hacking, programming, CTF writeups
-twitter_username: danielepusce
-linkedin_username: danielepusceddu
-github_username: danielepusceddu
 minimal_mistakes_skin: default
 search: true
 
@@ -68,18 +65,20 @@ author:
   avatar : "/assets/avatar.jpg"
   bio    : "I'm a student who likes programming and plays CTFs with the Srdnlen team."
   linkedin: "danielepusceddu"
+  github: "danielepusceddu"
+
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/danielepusceddu/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/danielepusceddu"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin-in"
+    #   url: "https://www.linkedin.com/in/danielepusceddu/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/danielepusceddu"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
@@ -87,11 +86,11 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielepusceddu/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danielepusce"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/danielepusce"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielepusceddu"
